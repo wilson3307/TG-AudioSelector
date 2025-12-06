@@ -1,5 +1,5 @@
-<a href=\"https://colab.research.google.com/github/wilson3307/TG-AudioSelector/blob/main/TG-AudioSelector.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-
+Deploy In Colob Notebook 
+https://colab.research.google.com/github/wilson3307/TG-AudioSelector/blob/main/TG-AudioSelector.ipynb
 
 # 🎵 Audio Selector Bot
 
