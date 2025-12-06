@@ -1,3 +1,6 @@
+<a href=\"https://colab.research.google.com/github/wilson3307/TG-AudioSelector/blob/main/TG-AudioSelector.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
+
 # 🎵 Audio Selector Bot
 
 [![Pyrogram](https://img.shields.io/badge/Pyrogram-Bot-blue)](https://docs.pyrogram.org/)
